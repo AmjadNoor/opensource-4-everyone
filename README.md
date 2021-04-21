@@ -2,8 +2,8 @@
 
 #### This repo is for everything open source!
 
-**Feel free to create an [issue](https://github.com/chryz-hub/py-tutorials/issues) or make a Pull Request. Please see our [Contributing file](https://github.com/chryz-hub/py-tutorials/blob/master/CONTRIBUTING.md)
-first and our [Code of Conduct](https://github.com/chryz-hub/py-tutorials/blob/master/CODE_OF_CONDUCT.md), before making new commits or opening a pull request, we appreciate it!
+**Feel free to create an [issue](https://github.com/chryz-hub/opensource-4-everyone/issues) or make a Pull Request. Please see our [Contributing file](https://github.com/chryz-hub/opensource-4-everyone/blob/master/CONTRIBUTING.md)
+first and our [Code of Conduct](https://github.com/chryz-hub/opensource-4-everyone/blob/master/CODE_OF_CONDUCT.md), before making new commits or opening a pull request, we appreciate it!
 In order for us not to ignore your effort, please check well not to make a duplicate of a Pull Request (contribution)/ issue!**
 
 # Contributing
@@ -102,9 +102,10 @@ After your pull request has been reviewed by the Team of the community and every
      <li><a href="https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme"> How To Make Your GitHub Profile Readme</a></li>
      <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/membership-visibility.md"> GitHub Membership Visibility Tutorials</a></li>
      <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/anatomy-of-open-source-communities.md"> The Anatomy of Open-Source Projects</a></li>
-     <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/git.md"> Git Basic and Advance Commands Tutorial</a></li>
+     <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/git.md"> Basic and Advance Git Tips</a></li>
      <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/starting-open-source.md"> Getting Started With Open-Source</a></li>
      <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/access-open-source-projects.md"> Getting an Open-Source Project to Start Contributing</a></li>
+     <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/git-cmd.md"> Git Commands</a></li>
     </ul>
 </details>
 
@@ -114,6 +115,7 @@ After your pull request has been reviewed by the Team of the community and every
 </summary>
  <ul>
    <li><a href="https://www.youtube.com/watch?v=91x7KJ1lMHw"> Introduction to Opensource</a></li>
+   <li><a href="https://www.youtube.com/watch?v=epPsQ3prWRw&t=6s"> Git and GitHub</a></li>
 </ul>
 </details>
 
@@ -152,7 +154,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <strong> Repositories</strong>
 </summary>
     <ul>
-       <li> <a href ="https://github.com/MunGell/awesome-for-beginners"> Awesome First PR Opportunities repository</a></li>
+       <li><a href="https://github.com/MunGell/awesome-for-beginners"> Awesome First PR Opportunities repository</a></li>
    </ul>
 </details>
 
